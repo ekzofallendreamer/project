@@ -1,0 +1,23 @@
+{
+    "main_url": "https://dev.profteam.su",
+    "registration_login": "grtrarorii",
+    "login_error_with_space": "gr traro",
+    "registration_login_rus": "гртраро",
+    "registration_login_space": "gr traroa",
+    "registration_email": "skeletik@mail.ru",
+    "login": "grtrarori",
+    "login_error": "grtraroo",
+    "email": "skeletron1337@mail.ru",
+    "wrong_email": "@",
+    "password": "Gtkmvtyb1337",
+    "surname": "Холод",
+    "name": "Александр",
+    "patronymic": "Романович",
+    "educational": "ТТИТ",
+    "company": "Спутник",
+    "qualification": "35.02.05 Агрономия",
+    "specialization": "Бакалавр",
+    "wrong_year": "40",
+    "year_start": "2022",
+    "year_end": "2024"
+}
